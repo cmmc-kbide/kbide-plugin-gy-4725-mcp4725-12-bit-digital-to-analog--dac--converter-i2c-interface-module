@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-4725-mcp4725-12-bit-digital-to-analog--dac--converter-i2c-interface-module",
+  "title": "gy-4725-mcp4725-12-bit-digital-to-analog--dac--converter-i2c-interface-module",
+  "keywords": "gy-4725-mcp4725-12-bit-digital-to-analog--dac--converter-i2c-interface-module, esp32, esp8266, arduino",
+  "description": "gy-4725-mcp4725-12-bit-digital-to-analog--dac--converter-i2c-interface-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-4725-mcp4725-12-bit-digital-to-analog--dac--converter-i2c-interface-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-4725-mcp4725-12-bit-digital-to-analog--dac--converter-i2c-interface-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
